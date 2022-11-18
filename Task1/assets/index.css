@@ -1,0 +1,29 @@
+html{
+    font-family: serif;
+    font-size: 16px;
+}
+.title{
+    text-align: center;
+    color: rgb(214, 62, 62);
+    font-size: 1rem;
+}
+.links{
+    text-align: center;
+    word-spacing: 0.4em;
+    font-size: 1rem;
+}
+.title__about{
+    text-align: center;
+    font-size: 1rem;
+    color: purple;
+}
+.title__about-header{
+    text-align: center;
+    color: darkgoldenrod;
+    font-size: 1rem;
+}
+.list{
+    text-align: center;
+    list-style-position:inside;
+    font-size: 1rem;
+}
